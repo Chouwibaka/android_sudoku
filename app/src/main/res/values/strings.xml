@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="cliquez_ici_pour_lancer_le_sudoku">Cliquez ici pour lancer le sudoku</string>
+    <string name="cliquez_ici_pour_choisir_le_niveau">Cliquez ici pour choisir le niveau</string>
+    <string name="niveau_1">Niveau 1</string>
+    <string name="niveau_2">Niveau 2</string>
+    <string name="niveau_3">Niveau 3</string>
+</resources>
